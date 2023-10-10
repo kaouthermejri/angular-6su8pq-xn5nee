@@ -9,7 +9,7 @@
     "zone.js": "0.8.26",
     "date-fns": "1.29.0",
     "flatpickr": "4.5.1",
-    "@angular/core": "6.0.6",
+    "@angular/core": "10.2.5",
     "@angular/forms": "6.0.6",
     "@angular/common": "6.0.6",
     "@angular/router": "6.0.6",
